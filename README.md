@@ -1,6 +1,6 @@
 # Bihar-Ka-Bazar 
 
-**Bihar-Ka-Bazar** is an agri-marketplace web application developed under Bindisa Agritech Pvt. Ltd. It connects local **farmers (sellers)** with **consumers (buyers)** to promote organic produce and fertilizers from Bihar.
+**Bihar-Ka-Bazar** is an agri-marketplace web application developed under Bindisa Agritech Pvt. Ltd. It connects local **farmers (sellers)** with **consumers (buyers)** to promote organic produce, local products like fruits,vegetables etc and fertilizers from Bihar.
 
 ## Technologies Used:
 - HTML, CSS, JavaScript, PHP
