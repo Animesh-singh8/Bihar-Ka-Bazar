@@ -18,7 +18,7 @@
 ## Folder Structure:
 - `/assets` – CSS, JS, Images
 - `/php` – Backend PHP logic
-- `/sql` – Database schema (if included)
+- `/sql` – Database schema
 - `/index.html` – Landing page
 
 ##  Disclaimer:
