@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bihar ka Bazar - Complete E-commerce Platform
 
 Bihar ka Bazar is a comprehensive web-based marketplace that connects Bihar's farmers directly with consumers. Built with PHP, MySQL, Bootstrap, and modern web technologies.
@@ -108,3 +109,33 @@ Header always set X-XSS-Protection "1; mode=block"
     ExpiresByType image/jpeg "access plus 1 month"
     ExpiresByType image/gif "access plus 1 month"
 </IfModule>
+=======
+# Bihar-Ka-Bazar 
+
+**Bihar-Ka-Bazar** is an agri-marketplace web application developed under Bindisa Agritech Pvt. Ltd. It connects local **farmers (sellers)** with **consumers (buyers)** to promote organic produce, local products like fruits,vegetables etc and fertilizers from Bihar.
+
+## Technologies Used:
+- HTML, CSS, JavaScript, PHP
+- Bootstrap, Tailwind CSS
+- XAMPP (Apache + MySQL)
+
+## Features:
+- Farmer & Buyer Registration/Login
+- Product Listings (Fruits, Organic Fertilizers)
+- Server-side & Client-side Form Validation
+- Responsive & Animated UI
+- SQL-based product management
+- Local deployment using XAMPP
+
+## Folder Structure:
+- `/assets` – CSS, JS, Images
+- `/php` – Backend PHP logic
+- `/sql` – Database schema
+- `/index.html` – Landing page
+
+##  Disclaimer:
+This project is built for educational purposes and is currently deployed locally via XAMPP.
+
+##  License
+[MIT License](LICENSE)
+>>>>>>> ca9565a4d32fdef4f37e1956f2291c64213a1894
