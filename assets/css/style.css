@@ -118,7 +118,7 @@ body {
   background-clip: text;
   font-weight: 800;
   animation: goldShineNew 3s ease-in-out infinite;
-  -webkit-text-stroke: 1px rgba(40, 167, 69, 0.8); /* Changed from 2px black to 1px green */
+  -webkit-text-stroke: 1px rgba(40, 167, 69, 0.8);
   filter: drop-shadow(2px 2px 4px rgba(40, 167, 69, 0.3)); /* Changed shadow to green */
   display: inline-block;
   position: relative;
